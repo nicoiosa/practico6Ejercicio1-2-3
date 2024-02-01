@@ -1,8 +1,13 @@
-# React + Vite
+# Ejercicio 1-2-3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello world
 
-Currently, two official plugins are available:
+Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Parte 2
+
+Modificar el componente anterior y enviar mediante props el valor “My friend” de manera que el mensaje quede de la siguiente forma:
+
+Parte 3
+
+Modificar el programa anterior agregando al componente un state con la clave msj: “(from changed state)”, además agregar un botón al presionar este botón (onClick), el state de la clave msj se debe mostrar por pantalla.
